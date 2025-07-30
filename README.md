@@ -1,21 +1,31 @@
-# Java Programs - Coding Logic Repository
+# 💡 Java Programs - Coding Logic Repository
 
-This repository contains various Java programs demonstrating logic for different coding tasks such as number checks, string formatting, and more.
-
-## 📋 Programs List
-
-| File Name             | Description                                                               |
-|-----------------------|----------------------------------------------------------------------------|
-| **ArmstrongNumber.java** | Checks whether a number is an Armstrong number.                          |
-| **CaseFormatter.java**   | Formats the case of strings (e.g., uppercase/lowercase conversions).     |
-| **DuckNumber.java**      | Checks whether a number is a Duck number (contains zero but doesn’t start with zero). |
-| **SpecialNumber.java**   | Identifies whether a number is a special number.                         |
-| **SubstringRemover.java**| Removes a specified substring from a string.                             |
-| **WordReverser.java**    | Reverses the words in a given string.                                    |
+This repository contains a collection of **basic to advanced Java programs** focused on strengthening core programming logic and problem-solving skills. Each program is self-contained and targets a specific task like string manipulation, number theory, or pattern-based challenges.
 
 ---
 
-## 🚀 Getting Started
-### 1. Clone the Repository:
+## 📁 Program List
+
+| Filename                      | Description |
+|------------------------------|-------------|
+| `AnagramChecker.java`        | Checks whether two strings are anagrams of each other. |
+| `ArmstrongNumber.java`       | Verifies if a given number is an Armstrong number. |
+| `CaseFormatter.java`         | Converts strings to uppercase, lowercase, and title case. |
+| `DuckNumber.java`            | Checks if a number is a Duck Number (contains zero but doesn't start with it). |
+| `LongestWordFinder.java`     | Finds the longest word in a given sentence. |
+| `NumberGuessingGame.java`    | Console-based game to guess a randomly generated number. |
+| `PalindromeStringChecker.java` | Checks whether a given string is a palindrome. |
+| `SpecialNumber.java`         | Checks if a number is a Special Number (sum of factorial of digits equals number). |
+| `SubstringRemover.java`      | Removes a given substring from a main string. |
+| `VowelConsonantCounter.java` | Counts vowels and consonants in a string. |
+| `WordReverser.java`          | Reverses the words in a given string. |
+
+---
+
+## 🔧 How to Run
+
+1. Clone the repository:
+
 ```bash
 git clone https://github.com/KrishnaKurmi/Java.git
+cd Java
