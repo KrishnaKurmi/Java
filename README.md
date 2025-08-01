@@ -13,6 +13,7 @@ This repository contains a collection of **basic to advanced Java programs** foc
 | `CaseFormatter.java`         | Converts strings to uppercase, lowercase, and title case. |
 | `DuckNumber.java`            | Checks if a number is a Duck Number (contains zero but doesn't start with it). |
 | `EmailValidator.java`     | Validates an Email using StringBuilder in Java. |
+| `Factorial.java`     | Calculates the factorial of the given number. |
 | `LongestWordFinder.java`     | Finds the longest word in a given sentence. |
 | `NumberGuessingGame.java`    | Console-based game to guess a randomly generated number. |
 | `PalindromeStringChecker.java` | Checks whether a given string is a palindrome. |
