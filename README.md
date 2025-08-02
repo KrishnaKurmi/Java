@@ -18,6 +18,7 @@ This repository contains a collection of **basic to advanced Java programs** foc
 | `NumberGuessingGame.java`    | Console-based game to guess a randomly generated number. |
 | `PalindromeStringChecker.java` | Checks whether a given string is a palindrome. |
 | `SpecialNumber.java`         | Checks if a number is a Special Number (sum of factorial of digits equals number). |
+| `StrongNumber.java`         | Checks if the given number is a Strong Number. |
 | `SubstringRemover.java`      | Removes a given substring from a main string. |
 | `VowelConsonantCounter.java` | Counts vowels and consonants in a string. |
 | `WordReverser.java`          | Reverses the words in a given string. |
