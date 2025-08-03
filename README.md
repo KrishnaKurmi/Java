@@ -17,6 +17,7 @@ This repository contains a collection of **basic to advanced Java programs** foc
 | `LongestWordFinder.java`     | Finds the longest word in a given sentence. |
 | `NumberGuessingGame.java`    | Console-based game to guess a randomly generated number. |
 | `PalindromeStringChecker.java` | Checks whether a given string is a palindrome. |
+| `SimpleCalculator.java` | Program of a simple calculator using 'switch case'.  |
 | `SpecialNumber.java`         | Checks if a number is a Special Number (sum of digits + product of digits equals number). |
 | `StrongNumber.java`         | Checks if the given number is a Strong Number (sum of factorial of digits equals number). |
 | `SubstringRemover.java`      | Removes a given substring from a main string. |
