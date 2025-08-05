@@ -14,6 +14,7 @@ This repository contains a collection of **basic to advanced Java programs** foc
 | `DuckNumber.java`            | Checks if a number is a Duck Number (contains zero but doesn't start with it). |
 | `EmailValidator.java`     | Validates an Email using StringBuilder in Java. |
 | `Factorial.java`     | Calculates the factorial of the given number. |
+| `Fibonacci.java`     | Prints Fibonacci series upto given number of terms. |
 | `LongestWordFinder.java`     | Finds the longest word in a given sentence. |
 | `NumberGuessingGame.java`    | Console-based game to guess a randomly generated number. |
 | `PalindromeStringChecker.java` | Checks whether a given string is a palindrome. |
