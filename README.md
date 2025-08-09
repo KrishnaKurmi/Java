@@ -20,6 +20,7 @@ This repository contains a collection of **basic to advanced Java programs** foc
 | `LongestWordFinder.java`     | Finds the longest word in a given sentence. |
 | `NumberGuessingGame.java`    | Console-based game to guess a randomly generated number. |
 | `PalindromeStringChecker.java` | Checks whether a given string is a palindrome. |
+| `PrimeNumber.java` | Java program to check whether a number is prime. |
 | `RemoveWhitespace.java` | Removes all white spaces from a sentence. |
 | `SimpleCalculator.java` | Program of a simple calculator using 'switch case'.  |
 | `SpecialNumber.java`         | Checks if a number is a Special Number (sum of digits + product of digits equals number). |
