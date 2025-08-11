@@ -12,6 +12,5 @@ public class RemoveWhitespace {
         String noWhitespace = input.replaceAll("\\s+", "");
 
         System.out.println("String without whitespaces: " + noWhitespace);
-
     }
 }
