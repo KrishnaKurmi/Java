@@ -6,36 +6,133 @@ This repository contains a collection of **basic to advanced Java programs** foc
 
 ## 📁 Program List
 
-| Filename                      | Description |
-|------------------------------|-------------|
-| `AnagramChecker.java`        | Checks whether two strings are anagrams of each other. |
-| `ArmstrongNumber.java`       | Verifies if a given number is an Armstrong number. |
-| `CaseFormatter.java`         | Converts strings to uppercase, lowercase, and title case. |
-| `DuckNumber.java`            | Checks if a number is a Duck Number (contains zero but doesn't start with it). |
-| `EmailValidator.java`     | Validates an Email using StringBuilder in Java. |
-| `Factorial.java`     | Calculates the factorial of the given number. |
-| `FactorialRecursive.java`     | Calculates the factorial of the given number (Recursive). |
-| `Fibonacci.java`     | Prints Fibonacci series upto given number of terms. |
-| `FibonacciRecursive.java`     | Prints Fibonacci series upto given number of terms (Recursive) |
-| `LongestWordFinder.java`     | Finds the longest word in a given sentence. |
-| `NumberGuessingGame.java`    | Console-based game to guess a randomly generated number. |
-| `PalindromeStringChecker.java` | Checks whether a given string is a palindrome. |
-| `PrimeNumber.java` | Java program to check whether a number is prime. |
-| `PrimeNumberSeries.java` | Java program to check whether a number is prime. |
-| `RemoveWhitespace.java` | Removes all white spaces from a sentence. |
-| `SimpleCalculator.java` | Program of a simple calculator using 'switch case'.  |
-| `SpecialNumber.java`         | Checks if a number is a Special Number (sum of digits + product of digits equals number). |
-| `StrongNumber.java`         | Checks if the given number is a Strong Number (sum of factorial of digits equals number). |
-| `SubstringRemover.java`      | Removes a given substring from a main string. |
-| `VowelConsonantCounter.java` | Counts vowels and consonants in a string. |
-| `WordReverser.java`          | Reverses the words in a given string. |
+---
+
+## 1. Beginner Level – Basics & Core Java
+- [x] Hello World program
+- [x] Print your name in different styles
+- [x] Sum of two numbers (input from user)
+- [x] Swap two numbers without a third variable
+- [x] Check if a number is even or odd
+- [x] Find largest of three numbers
+- [x] Simple calculator (addition, subtraction, multiplication, division)
+- [x] Check if a number is prime
+- [ ] Multiplication table of a number
+- [x] Factorial of a number (loop)
+- [x] Factorial of a number (recursion)
+- [x] Fibonacci series (loop)
+- [x] Fibonacci series (recursion)
+- [ ] Reverse a number
+- [x] Check if a number is palindrome
+- [x] Check if a string is palindrome
+- [ ] Count digits in a number
+- [ ] Sum of digits of a number
+- [x] Armstrong number check
+- [ ] GCD and LCM of two numbers
 
 ---
 
-## 🔧 How to Run
+## 2. Arrays & Strings
+- [ ] Find the largest element in an array
+- [ ] Find the smallest element in an array
+- [ ] Sum of array elements
+- [ ] Average of array elements
+- [ ] Reverse an array
+- [ ] Sort an array (Bubble Sort)
+- [ ] Sort an array (Selection Sort)
+- [ ] Sort an array (Insertion Sort)
+- [ ] Merge two arrays
+- [ ] Remove duplicates from an array
+- [ ] Linear search in an array
+- [ ] Binary search in an array
+- [ ] Count occurrence of an element in an array
+- [ ] Find second largest element in an array
+- [ ] Find missing number in array 1–n
+- [ ] Rotate array to the left
+- [ ] Rotate array to the right
+- [ ] Find all pairs with a given sum in an array
+- [ ] Check if two arrays are equal
+- [x] Check if a string is anagram of another
 
-1. Clone the repository:
+---
 
-```bash
-git clone https://github.com/KrishnaKurmi/Java.git
-cd Java
+## 3. Object-Oriented Programming
+- [ ] Create a `Person` class with name, age and display details
+- [ ] Bank account class with deposit and withdraw methods
+- [ ] Employee class with salary calculation
+- [ ] Student class with marks and grade calculation
+- [ ] Constructor overloading example
+- [ ] Method overloading example
+- [ ] Method overriding example
+- [ ] Single inheritance example
+- [ ] Multilevel inheritance example
+- [ ] Hierarchical inheritance example
+- [ ] Abstract class and abstract methods example
+- [ ] Interface example
+- [ ] Multiple inheritance using interfaces
+- [ ] Encapsulation with getters and setters
+- [ ] Static variables and methods example
+
+---
+
+## 4. Data Structures in Java
+- [ ] Implement stack using array
+- [ ] Implement stack using `LinkedList`
+- [ ] Implement queue using array
+- [ ] Implement queue using `LinkedList`
+- [ ] Circular queue implementation
+- [ ] Priority queue example
+- [ ] Deque example
+- [ ] Linked list (singly) implementation
+- [ ] Linked list (doubly) implementation
+- [ ] Reverse a linked list
+- [ ] Detect loop in linked list
+- [ ] Binary search tree – insert and display
+- [ ] BST – search an element
+- [ ] BST – inorder, preorder, postorder traversal
+- [ ] Find height of binary tree
+- [ ] Implement hash table (basic)
+- [ ] Count frequency of elements using `HashMap`
+- [ ] Sort elements using `TreeMap`
+- [ ] Implement graph using adjacency list
+- [ ] BFS and DFS traversal of a graph
+
+---
+
+## 5. File Handling & Exceptions
+- [ ] Read a text file and display contents
+- [ ] Write data to a file
+- [ ] Append data to a file
+- [ ] Copy contents from one file to another
+- [ ] Count number of words in a file
+- [ ] Count number of lines in a file
+- [ ] Check if file exists
+- [ ] Handle `IOException` in file reading
+- [ ] Try-catch-finally example
+- [ ] Create a custom exception
+
+---
+
+## 6. Mini Java Projects
+- [ ] Simple login system (username & password check)
+- [ ] Library management system (basic CRUD)
+- [ ] ATM simulation (withdraw, deposit, balance check)
+- [ ] Tic Tac Toe game (console)
+- [x] Guess the number game
+- [ ] Rock Paper Scissors game
+- [ ] Quiz application (MCQs)
+- [ ] Student grade management system
+- [ ] Temperature converter (Celsius ↔ Fahrenheit)
+- [ ] Currency converter
+- [ ] Digital clock (console)
+- [ ] To-do list manager (console)
+- [ ] Password strength checker
+- [ ] URL content reader (Java Networking)
+- [ ] Weather data fetcher (API call using `HttpURLConnection`)
+
+---
+
+### 📌 How to Use
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/KrishnaKurmi/Java.git
