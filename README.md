@@ -18,7 +18,7 @@ This repository contains a collection of **basic to advanced Java programs** foc
 | ☑️ | Find largest of three numbers |
 | ☑️ | Simple calculator (addition, subtraction, multiplication, division) |
 | ☑️ | Check if a number is prime |
-| ⬜ | Multiplication table of a number |
+| ☑️ | Multiplication table of a number |
 | ☑️ | Factorial of a number (loop) |
 | ☑️ | Factorial of a number (recursion) |
 | ☑️ | Fibonacci series (loop) |
