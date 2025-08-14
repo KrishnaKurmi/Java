@@ -23,7 +23,7 @@ This repository contains a collection of **basic to advanced Java programs** foc
 | ☑️ | Factorial of a number (recursion) |
 | ☑️ | Fibonacci series (loop) |
 | ☑️ | Fibonacci series (recursion) |
-| ⬜ | Reverse a number |
+| ☑️ | Reverse a number |
 | ☑️ | Check if a number is palindrome |
 | ☑️ | Check if a string is palindrome |
 | ⬜ | Count digits in a number |
