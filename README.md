@@ -27,7 +27,7 @@ This repository contains a collection of **basic to advanced Java programs** foc
 | ☑️ | Check if a number is palindrome |
 | ☑️ | Check if a string is palindrome |
 | ☑️ | Count digits in a number |
-| ⬜ | Sum of digits of a number |
+| ☑️ | Sum of digits of a number |
 | ☑️ | Armstrong number check |
 | ⬜ | GCD and LCM of two numbers |
 
