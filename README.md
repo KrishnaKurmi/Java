@@ -29,7 +29,7 @@ This repository contains a collection of **basic to advanced Java programs** foc
 | ☑️ | Count digits in a number |
 | ☑️ | Sum of digits of a number |
 | ☑️ | Armstrong number check |
-| ⬜ | GCD and LCM of two numbers |
+| ☑️ | GCD and LCM of two numbers |
 
 ---
 
