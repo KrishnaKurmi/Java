@@ -37,7 +37,7 @@ This repository contains a collection of **basic to advanced Java programs** foc
 
 | Done? | Program |
 |-------|---------|
-| ⬜ | Find the largest element in an array |
+| ☑️ | Find the largest element in an array |
 | ⬜ | Find the smallest element in an array |
 | ⬜ | Sum of array elements |
 | ⬜ | Average of array elements |
