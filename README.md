@@ -10,12 +10,12 @@ This repository contains a collection of **basic to advanced Java programs** foc
 
 | Done? | Program |
 |-------|---------|
-| ☑️ | Hello World program |
-| ☑️ | Print your name in different styles |
-| ☑️ | Sum of two numbers (input from user) |
-| ☑️ | Swap two numbers without a third variable |
-| ☑️ | Check if a number is even or odd |
-| ☑️ | Find largest of three numbers |
+| ⬜ | Hello World program |
+| ⬜ | Print your name in different styles |
+| ⬜ | Sum of two numbers (input from user) |
+| ⬜ | Swap two numbers without a third variable |
+| ⬜ | Check if a number is even or odd |
+| ⬜ | Find largest of three numbers |
 | ☑️ | Simple calculator (addition, subtraction, multiplication, division) |
 | ☑️ | Check if a number is prime |
 | ☑️ | Multiplication table of a number |
@@ -24,7 +24,7 @@ This repository contains a collection of **basic to advanced Java programs** foc
 | ☑️ | Fibonacci series (loop) |
 | ☑️ | Fibonacci series (recursion) |
 | ☑️ | Reverse a number |
-| ☑️ | Check if a number is palindrome |
+| ⬜ | Check if a number is palindrome |
 | ☑️ | Check if a string is palindrome |
 | ☑️ | Count digits in a number |
 | ☑️ | Sum of digits of a number |
