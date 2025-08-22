@@ -1,7 +1,7 @@
 // Input : alIce pArKEr
 // Output : Alice Parker
 import java.util.Scanner;
-public class Formatter {
+public class CaseFormatter {
     static String upper(String str){
         StringBuilder s1=new StringBuilder();
         for(int i=0;i<str.length();i++){
