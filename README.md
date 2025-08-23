@@ -15,7 +15,7 @@ This repository contains a collection of **basic to advanced Java programs** foc
 | ⬜ | Sum of two numbers (input from user) |
 | ⬜ | Swap two numbers without a third variable |
 | ⬜ | Check if a number is even or odd |
-| ⬜ | Find largest of three numbers |
+| ☑️ | Find largest of three numbers |
 | ☑️ | Simple calculator (addition, subtraction, multiplication, division) |
 | ☑️ | Check if a number is prime |
 | ☑️ | Multiplication table of a number |
