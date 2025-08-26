@@ -44,7 +44,7 @@ This repository contains a collection of **basic to advanced Java programs** foc
 | ☑️ | Reverse an array |
 | ☑️ | Sort an array (Bubble Sort) |
 | ☑️ | Sort an array (Selection Sort) |
-| ⬜ | Sort an array (Insertion Sort) |
+| ☑️ | Sort an array (Insertion Sort) |
 | ⬜ | Merge two arrays |
 | ⬜ | Remove duplicates from an array |
 | ⬜ | Linear search in an array |
