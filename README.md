@@ -43,7 +43,7 @@ This repository contains a collection of **basic to advanced Java programs** foc
 | ☑️ | Average of array elements |
 | ☑️ | Reverse an array |
 | ☑️ | Sort an array (Bubble Sort) |
-| ⬜ | Sort an array (Selection Sort) |
+| ☑️ | Sort an array (Selection Sort) |
 | ⬜ | Sort an array (Insertion Sort) |
 | ⬜ | Merge two arrays |
 | ⬜ | Remove duplicates from an array |
