@@ -45,7 +45,7 @@ This repository contains a collection of **basic to advanced Java programs** foc
 | ☑️ | Sort an array (Bubble Sort) |
 | ☑️ | Sort an array (Selection Sort) |
 | ☑️ | Sort an array (Insertion Sort) |
-| ⬜ | Merge two arrays |
+| ☑️ | Merge two arrays |
 | ⬜ | Remove duplicates from an array |
 | ⬜ | Linear search in an array |
 | ⬜ | Binary search in an array |
