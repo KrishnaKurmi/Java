@@ -48,7 +48,7 @@ This repository contains a collection of **basic to advanced Java programs** foc
 | ☑️ | Merge two arrays |
 | ☑️ | Remove duplicates from an array |
 | ☑️ | Linear search in an array |
-| ⬜ | Binary search in an array |
+| ☑️ | Binary search in an array |
 | ⬜ | Count occurrence of an element in an array |
 | ⬜ | Find second largest element in an array |
 | ⬜ | Find missing number in array 1–n |
