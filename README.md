@@ -50,7 +50,7 @@ This repository contains a collection of **basic to advanced Java programs** foc
 | ☑️ | Linear search in an array |
 | ☑️ | Binary search in an array |
 | ☑️ | Count occurrence of an element in an array |
-| ⬜ | Find second largest element in an array |
+| ☑️ | Find second largest element in an array |
 | ⬜ | Find missing number in array 1–n |
 | ⬜ | Rotate array to the left |
 | ⬜ | Rotate array to the right |
