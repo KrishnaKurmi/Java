@@ -11,7 +11,7 @@ This repository contains a collection of **basic to advanced Java programs** foc
 | Done? | Program |
 |-------|---------|
 | ☑️ | Hello World program |
-| ⬜ | Print your name in different styles |
+| ☑️ | Print your name in different styles |
 | ⬜ | Sum of two numbers (input from user) |
 | ⬜ | Swap two numbers without a third variable |
 | ⬜ | Check if a number is even or odd |
